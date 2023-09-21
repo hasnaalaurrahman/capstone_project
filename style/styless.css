@@ -207,7 +207,7 @@ header .fa-bars:hover{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: rgba(0, 0, 0, .4) url(../img/bg.jpg) no-repeat;
+    background: rgba(0, 0, 0, .4) url(../assets/img/bg.jpg) no-repeat;
     background-blend-mode: darken;
     background-size: cover;
     background-position: center;
@@ -290,7 +290,7 @@ header .fa-bars:hover{
     text-align: center;
     justify-content: space-evenly;
     min-height: 40vh;
-    background: url(../img/Rectangle\ 10.png) no-repeat;
+    background: url(../assets/img/Rectangle\ 10.png) no-repeat;
     background-size: 100%;
     background-position: bottom;
     
